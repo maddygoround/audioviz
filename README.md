@@ -19,7 +19,7 @@ See [example](https://github.com/maddygoround/audioviz/blob/main/example/sample.
 
 ## Installing
 
-`npm i -g audioviz`
+`npm i audioviz`
 
 ## JavaScript library
 
