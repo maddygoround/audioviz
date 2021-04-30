@@ -54,21 +54,16 @@ var audioviz = new Audioviz({
 | `waveLeft`        | Left alignment                              | `0`       |     |
 | `waveBottom`      | Bottom alignment                            | `420`     |     |
 
-### Patterns
+#### Patterns
 
-| Parameter    | Description                                 | Default   |     |
-| ------------ | ------------------------------------------- | --------- | --- |
-| `bar`        | Audio input path (mp3, wav)                 |           |     |
-| `curve`      | Width which all media will be converted to  | `1280`    |     |
-| `wave`       | Height which all media will be converted to | `720`     |     |
-| `roundBars`  | output file name                            |           |     |
-| `bricks`     | Color for audio waves drawn on frames       | `#d84a4a` |     |
-| `equalizer`  | BackGround color for video                  | `#fff`    |     |
-| `line`       | Wave pattern to be drawn                    | `bars`    |     |
-| `pixel`      | Top alignment                               | `150`     |     |
-| `waveRight`  | Right alignment                             | `1280`    |     |
-| `waveLeft`   | Left alignment                              | `0`       |     |
-| `waveBottom` | Bottom alignment                            | `420`     |     |
+- `bar`
+- `curve`
+- `wave`
+- `roundBars`
+- `bricks`
+- `line`
+- `pixel`
+- `equalizer`
 
 ## See also
 
